@@ -6,9 +6,11 @@
 
 ---
 
-### 🛠️ Some Personal Projects
-*Some of my Personal Projects*
+### 🛠️ Personal Projects
 
+#### **See my Public Repo**
+
+#### *Highlighted Projects*
 * 🔄 **[Delta Syncer](https://github.com/bilalm-19/delta-syncer)** - Efficient (delta) data synchronization tool.
 * 🔋 **[Battery Buddy](https://github.com/bilalm-19/battery_buddy)** - Grid-scale battery trading simulator including an AI powered decision maker).
   
