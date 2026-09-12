@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Bilal 👋
+
+### About Me
+
+Advanced Computing (Honours) - Machine Learning and Cyber Security
 
 <!--
 **bilalm-19/bilalm-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
