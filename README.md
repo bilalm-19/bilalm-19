@@ -1,8 +1,8 @@
 ## Hi there, I'm Bilal 👋
 
-### About Me
-
 Advanced Computing (Honours) - Machine Learning and Cyber Security
+
+<img src="./typing_cartoon.gif" height="85px">
 
 <!--
 **bilalm-19/bilalm-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
