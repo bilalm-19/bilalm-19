@@ -13,7 +13,7 @@
 #### *Highlighted Projects*
 * 🔄 **[Delta Syncer](https://github.com/bilalm-19/delta-syncer)** - Efficient (delta) data synchronization tool.
 * 🔋 **[Battery Buddy](https://github.com/bilalm-19/battery_buddy)** - Grid-scale battery trading simulator (including an AI powered decision maker).
-  
+* 🎨 **[Colourise-Net](https://github.com/bilalm-19/colourise-net)** - A Deep learning model that transforms greyscale images into coloured images.  
 ---
 
 ### 🤖 Agentic Coding Projects
@@ -21,7 +21,6 @@
 
 * 🚀 **[Time is Trippy](https://comp4020-agentic-coding-studio.github.io/comp4020-ass1-BilalM004/)** - A visual, interactive story created to explain the theory of special relativity.
 * 🕸️ **[Web-Slinger Adventures](https://comp4020-agentic-coding-studio.github.io/comp4020-crit5-BilalM004/)** - Interactive web-based adventure game.
-* 🎨 **[Colourise-Net](https://github.com/bilalm-19/colourise-net)** - A Deep learning model that transforms greyscale images into coloured images.
 ---
 
 
