@@ -12,10 +12,10 @@
 
 #### *Highlighted Projects*
 * 🏅 **[Weblympics](https://github.com/bilalm-19/weblympics)** - Webcam-controlled sports game in the browser, inspired by Wii Sports: six sports played with your body against bots or friends, online, offline or over your wifi ([play](https://comp4020-final-bilalm004.fly.dev), deployed from my course account).
-* 🎨 **[Colourise-Net](https://github.com/bilalm-19/colourise-net)** - PyTorch U-Net that colourises greyscale images, served through a FastAPI inference server with a web demo.
+* 🔄 **[Delta Syncer](https://github.com/bilalm-19/delta-syncer)** - Efficient (delta) data synchronization tool.
 * 🔋 **[Battery Buddy](https://github.com/bilalm-19/battery_buddy)** - Grid-scale battery trading simulator (including an AI powered decision maker).
 * 🧱 **[Life2Craft](https://github.com/bilalm-19/life2craft)** - Turns a photo of an object (a tower, a building, a statue) into a Minecraft build you can paste in with WorldEdit or Litematica.
-* 🔄 **[Delta Syncer](https://github.com/bilalm-19/delta-syncer)** - Efficient (delta) data synchronization tool.
+* 🎨 **[Colourise-Net](https://github.com/bilalm-19/colourise-net)** - PyTorch U-Net that colourises greyscale images, served through a FastAPI inference server with a web demo.
 ---
 
 ### 🤖 Agentic Coding Projects
