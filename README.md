@@ -11,7 +11,7 @@
 #### **See my Public Repo**
 
 #### *Highlighted Projects*
-* 🏅 **[Weblympics](https://github.com/bilalm-19/weblympics)** - Webcam-controlled sports game in the browser, inspired by Wii Sports: six sports played with your body against bots or friends, online, offline or over your wifi ([play the game - deployed from my course account](https://comp4020-final-bilalm004.fly.dev)).
+* 🏅 **[Weblympics](https://github.com/bilalm-19/weblympics)** - Webcam-controlled sports game in the browser, inspired by Wii Sports: six sports played with your body against bots or friends, online, offline or over your wifi. Built using agentic workflows ([play the game - deployed from my course account](https://comp4020-final-bilalm004.fly.dev)).
 * 🔄 **[Delta Syncer](https://github.com/bilalm-19/delta-syncer)** - Efficient (delta) data synchronization tool.
 * 🔋 **[Battery Buddy](https://github.com/bilalm-19/battery_buddy)** - Grid-scale battery trading simulator (including an AI powered decision maker).
 * 🧱 **[Life2Craft](https://github.com/bilalm-19/life2craft)** - Turns a photo of an object (a tower, a building, a statue) into a Minecraft build you can paste in with WorldEdit or Litematica.
